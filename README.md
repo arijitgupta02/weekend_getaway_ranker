@@ -95,6 +95,6 @@ Notes
 
 
 If you like this project
-Give the repo a star — it motivates beginners to build more projects!
+Give the repo a star — it motivates to build more projects!
 
 
