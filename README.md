@@ -23,7 +23,7 @@ Features
 Project Structure
 ---------------------------
 
-weekend_getaway_ranker/
+-weekend_getaway_ranker/
   -travel_ranker.py # Main script
   -travel_dataset.csv # Travel data
   -sample_output.txt # Output examples
@@ -61,7 +61,7 @@ This will display the top destinations from each major city listed in the datase
 Sample Output
 ---------------
 
-Top Weekend Destinations from Delhi:
+-Top Weekend Destinations from Delhi:
 
   1.Agra
   
@@ -69,7 +69,7 @@ Top Weekend Destinations from Delhi:
   
   3.Manali
 
-Top Weekend Destinations from Mumbai:
+-Top Weekend Destinations from Mumbai:
 
   1.Lonavala
   
@@ -77,7 +77,7 @@ Top Weekend Destinations from Mumbai:
   
   3.Mahabaleshwar
 
-Top Weekend Destinations from Bengaluru:
+-Top Weekend Destinations from Bengaluru:
 
   1.Mysore
   
