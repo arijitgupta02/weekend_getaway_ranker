@@ -24,11 +24,11 @@ Project Structure
 ---------------------------
 
 weekend_getaway_ranker/
-    travel_ranker.py # Main script
-    travel_dataset.csv # Travel data
-    sample_output.txt # Output examples
-    requirements.txt # Dependencies
-    README.md # Project documentation
+  -travel_ranker.py # Main script
+  -travel_dataset.csv # Travel data
+  -sample_output.txt # Output examples
+  -requirements.txt # Dependencies
+  -README.md # Project documentation
 
 
 Technologies Used
@@ -40,15 +40,18 @@ Technologies Used
 Installation & Usage
 ----------------------
 
-1. Clone the repository - 
+1. Clone the repository -
+
    git clone https://github.com/
    arijitgupta02/weekend_getaway_ranker.git
    cd weekend_getaway_ranker
 
-2. Install dependencies - 
+3. Install dependencies -
+
    pip install -r requirements.txt
 
-3. Run the script - 
+5. Run the script -
+
    python travel_ranker.py
 
 
@@ -60,30 +63,28 @@ Sample Output
 
 Top Weekend Destinations from Delhi:
 
-1.Agra
-
-2.Jaipur
-
-3.Manali
+  1.Agra
+  
+  2.Jaipur
+  
+  3.Manali
 
 Top Weekend Destinations from Mumbai:
 
-1.Lonavala
-
-2.Alibaug
-
-3.Mahabaleshwar
+  1.Lonavala
+  
+  2.Alibaug
+  
+  3.Mahabaleshwar
 
 Top Weekend Destinations from Bengaluru:
 
-1.Mysore
+  1.Mysore
+  
+  2.Coorg
+  
+  3.Ooty
 
-2.Coorg
-
-3.Ooty
-
-
----
 
 Notes
 -------
