@@ -1,0 +1,16 @@
+==== Weekend Getaway Ranker Results ====
+
+Top Weekend Destinations from Delhi:
+1. Agra - Distance: 230 km - Rating: 4.6 - Popularity: 95
+2. Jaipur - Distance: 270 km - Rating: 4.5 - Popularity: 88
+3. Manali - Distance: 520 km - Rating: 4.7 - Popularity: 92
+
+Top Weekend Destinations from Mumbai:
+1. Lonavala - Distance: 85 km - Rating: 4.4 - Popularity: 80
+2. Alibaug - Distance: 95 km - Rating: 4.3 - Popularity: 78
+3. Mahabaleshwar - Distance: 260 km - Rating: 4.5 - Popularity: 87
+
+Top Weekend Destinations from Bengaluru:
+1. Mysore - Distance: 150 km - Rating: 4.6 - Popularity: 90
+2. Coorg - Distance: 260 km - Rating: 4.7 - Popularity: 91
+3. Ooty - Distance: 270 km - Rating: 4.6 - Popularity: 89

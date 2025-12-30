@@ -1,0 +1,10 @@
+City,State,Distance_km,Rating,PopularityScore,NearestMajorCity
+Manali,Himachal Pradesh,520,4.7,92,Delhi
+Jaipur,Rajasthan,270,4.5,88,Delhi
+Agra,Uttar Pradesh,230,4.6,95,Delhi
+Lonavala,Maharashtra,85,4.4,80,Mumbai
+Mahabaleshwar,Maharashtra,260,4.5,87,Mumbai
+Alibaug,Maharashtra,95,4.3,78,Mumbai
+Mysore,Karnataka,150,4.6,90,Bengaluru
+Coorg,Karnataka,260,4.7,91,Bengaluru
+Ooty,Tamil Nadu,270,4.6,89,Bengaluru
